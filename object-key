@@ -1,7 +1,0 @@
-//遍历对象，key需要字符串类型
-const Text = (Data: { [name: string]: number }) //遍历data
-
-const Names: { [name: string]: string } = {
-  w: 'ee',
-  x: 'ec',
-};
